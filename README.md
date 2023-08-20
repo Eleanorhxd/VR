@@ -1,6 +1,8 @@
 # VRCG
 
 ## Overview
+# Radiology Report Generation via Visual Recalibration and Context Gating-aware
+
 This repository contains code necessary to run VRCG model. 
 In this paper, we propose Visual Recalibration and Context Gating-aware model (VRCG) to alleviate visual and textual data bias for enhancing report generation. We employ a medical visual recalibration module to enhance the key lesion feature extraction. We use the context gating-aware module to combine lesion location and report context information to solve the problem of long-distance dependence in diagnostic reports.
 
